@@ -1,1 +1,7 @@
 # Inventario
+
+
+
+
+
+basta querer
