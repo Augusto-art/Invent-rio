@@ -1,0 +1,59 @@
+# inventario.txt - Exemplo de estrutura textual do inventário
+
+Inventário do jogador:
+- Capacete
+- Peitoral
+- Calça
+- Bota
+
+Itens:
+- Arco
+- Flecha
+- Cristal
+- Gelo
+- Caixa
+- Machado
+- Cubo
+- Peitoral Preto
+- Flor
+- Espada
+- Picareta
+- Maçã
+
+flor|2|flor.png
+flor|1|flor.png
+flor|3|flor.png
+cristal|1|cristal.png
+caixa|1|caixa.png
+maca|2|maca.png
+picareta|2|picareta.png
+carne|15|carne.png
+carne|15|carne.png
+flor|10|flor.png
+cenoura|20|cenoura.png
+flor|36|flor.png
+cenoura|35|cenoura.png
+osso|15|osso.png
+lava|11|lava.png
+carne|44|carne.png
+margarida|18|margarida.png
+osso|74|osso.png
+agua|23|agua.png
+osso|500|osso.png
+cristal|700|imagem_2025-03-19_100805841.png
+pena|1001|pena.png
+cereja|160|cereja.png
+batata|10000000000000000000000000000000000000000000000000000|batata.png
+flor|7|flor.png
+margarida|50|margarida.png
+lava|16|lava.png
+terra|2|terra.png
+lava|8|lava.png
+cereja|10|cereja.png
+cenoura|40|cenoura.png
+agua|16|agua.png
+rosa|35|rosa.png
+maca|24|maca.png
+osso|99|osso.png
+cristal|82|cristal.png
+cubo|54|cubo.png
